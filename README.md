@@ -3,7 +3,7 @@
 A logic vulnerability, dubbed Re-ReBreakCaptcha, which lets you easily bypass Google's ReCaptcha v2 anywhere on the web.
 
 
-More details in the post: https://east-ee.com
+More details in the post: https://east-ee.com/2022/02/28/1367/
 
 ## Installation
 
